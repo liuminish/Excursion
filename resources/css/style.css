@@ -1,0 +1,15 @@
+/* shared styles */
+
+body {
+    font-family: Verdana;
+    font-size: 16px;
+    background-color: black;
+}
+
+h1 {
+    width: 100%;
+    font-size: 3.125rem;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+}
