@@ -4,12 +4,37 @@ body {
     font-family: Verdana;
     font-size: 16px;
     background-color: black;
+    text-align: center;
+    color: white;
 }
 
 h1 {
     width: 100%;
     font-size: 3.125rem;
     font-weight: normal;
-    color: white;
-    text-align: center;
+}
+
+h2 {
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+h4 {
+    font-size: 1.3125rem;
+    color: gray;
+    font-weight: normal;
+}
+
+.link {
+    color: aquamarine;
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+.logo {
+    margin-top: 2rem;
+}
+
+footer {
+    text-align: right;
 }
